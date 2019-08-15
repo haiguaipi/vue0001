@@ -1,6 +1,6 @@
 <template>
   <div >
-  	<form class="form-horizontal" role="form">
+  	<!--<form class="form-horizontal" role="form">
   		<div class="form-group">
 					<label for="firstname" class="col-sm-1 control-label">姓名</label>
 					<div class="col-sm-10">
@@ -24,7 +24,7 @@
 						<button type="button" class="btn btn-default" @click="updateEmp()">确认修改</button>
 					</div>
 				</div>
-		</form>
+		</form>-->
   </div>
 </template>
 
